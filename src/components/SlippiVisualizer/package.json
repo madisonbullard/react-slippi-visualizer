@@ -1,0 +1,6 @@
+{
+  "name": "SlippiVisualizer",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./SlippiVisualizer.js"
+}
