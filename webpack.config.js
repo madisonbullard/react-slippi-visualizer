@@ -25,7 +25,7 @@ module.exports = env => {
       hot: true
     },
     devtool: env.prod ? "source-maps" : "eval",
-    entry: path.join(paths.SRC, "index.js"),
+    entry: path.join(__dirname, "examples/src/index.js"),
     output: {
       path: paths.DIST,
       pathinfo: !env.prod,

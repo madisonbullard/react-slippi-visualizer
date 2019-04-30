@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import SlippiVisualizer from "./components/SlippiVisualizer";
+import SlippiVisualizer from "../../src/SlippiVisualizer";
 import replay from "./replays/zain-sfat-bf.json";
 import "./index.css";
 
