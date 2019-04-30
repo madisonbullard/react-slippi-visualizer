@@ -1,6 +1,6 @@
 # react-slippi-visualizer
 
-> A React component for displaying [slippi](https://github.com/project-slippi/project-slippi) replays in the browser. Based on [slippi-visualiser](https://github.com/schmooblidon/slippi-visualiser) and [react-iframe-comm](https://github.com/pbojinov/react-iframe-comm).
+> A React component for displaying [slippi](https://github.com/project-slippi/project-slippi) replays in the browser. Based on [slippi-visualiser](https://github.com/schmooblidon/slippi-visualiser) (commit: d19c3bf00474ad57b0d204a3aaf9fd2dcb757b6c) and [react-iframe-comm](https://github.com/pbojinov/react-iframe-comm).
 
 ## How it works
 
