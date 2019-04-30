@@ -37,6 +37,11 @@ module.exports = env => {
         : "static/js/[name].chunk.js",
       publicPath: paths.ASSET_PATH
     },
+    optimization: {
+      splitChunks: {
+        chunks: "all"
+      }
+    },
     module: {
       rules: [
         {

@@ -1,9 +1,4 @@
-# react-slippi-visualizer <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
-
-[![License][license-image]][license-url]
-[![Downloads][downloads-image]][downloads-url]
-
-[![npm badge][npm-badge-png]][package-url]
+# react-slippi-visualizer
 
 > A React component for displaying [slippi](https://github.com/project-slippi/project-slippi) replays in the browser. Based on [slippi-visualiser](https://github.com/schmooblidon/slippi-visualiser) and [react-iframe-comm](https://github.com/pbojinov/react-iframe-comm).
 
