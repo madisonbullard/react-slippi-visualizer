@@ -46,6 +46,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.4",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
     "@babel/preset-env": "^7.4.4",
@@ -75,7 +76,6 @@
     "webpack-dev-server": "^3.3.1"
   },
   "postcss": {
-    "parser": "sugarss",
     "map": false,
     "plugins": {
       "postcss-import": {},
